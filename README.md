@@ -1,5 +1,8 @@
 # Elizabeth-HTML-CSS-Code-Refractor-Project
+<<<<<<< HEAD
 
+=======
+>>>>>>> dbabcfd0529e62648b8e38d1435005cb14523083
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -21,6 +24,9 @@ separated header, body section, and footer by replacing corresponding div for pr
 reordered the css styling for corresponding header, body, and footer in style.css to follow W3 compliance
 consolidated elements with identical styling 
 added proper puncuation for ones missing in fonts. 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> dbabcfd0529e62648b8e38d1435005cb14523083
